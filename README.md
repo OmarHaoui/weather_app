@@ -4,8 +4,8 @@
 A simple weather forecast application built with Flutter that displays the current weather and a 5-day weather forecast for a selected city. This app fetches data from the OpenWeatherMap API.
 
 ## 📸 Screenshots
-![Current Weather](screenshots/current_weather.png)
-![5-Day Forecast](screenshots/5_day_forecast.png)
+![weather page](lib/assets/screenshots/weather_page.jpg)
+![search page](lib/assets/screenshots/search_page.png)
 
 ## ✨ Features
 - Search for a city to get the current weather.
